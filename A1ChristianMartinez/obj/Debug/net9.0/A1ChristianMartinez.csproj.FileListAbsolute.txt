@@ -1,0 +1,17 @@
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.csproj.AssemblyReference.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.AssemblyInfoInputs.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.AssemblyInfo.cs
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.csproj.CoreCompileInputs.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\A1ChristianMartinez.exe
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\A1ChristianMartinez.deps.json
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\A1ChristianMartinez.runtimeconfig.json
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\A1ChristianMartinez.dll
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\A1ChristianMartinez.pdb
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\bin\Debug\net9.0\ConsoleTables.dll
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1Christ.D5DD6AD5.Up2Date
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.dll
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\refint\A1ChristianMartinez.dll
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.pdb
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\A1ChristianMartinez.genruntimeconfig.cache
+C:\Users\primo\Documents\College\Semester 4\.Net\Assignment\Assigment1\A1ChristianMartinez\A1ChristianMartinez\obj\Debug\net9.0\ref\A1ChristianMartinez.dll
