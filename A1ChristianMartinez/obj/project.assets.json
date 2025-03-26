@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\primo\\Documents\\College\\Semester 4\\.Net\\Assignment\\Assigment1\\A1ChristianMartinez\\A1ChristianMartinez\\A1ChristianMartinez.csproj",
+      "projectUniqueName": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Employees_System\\A1ChristianMartinez\\A1ChristianMartinez.csproj",
       "projectName": "A1ChristianMartinez",
-      "projectPath": "C:\\Users\\primo\\Documents\\College\\Semester 4\\.Net\\Assignment\\Assigment1\\A1ChristianMartinez\\A1ChristianMartinez\\A1ChristianMartinez.csproj",
+      "projectPath": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Employees_System\\A1ChristianMartinez\\A1ChristianMartinez.csproj",
       "packagesPath": "C:\\Users\\primo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\primo\\Documents\\College\\Semester 4\\.Net\\Assignment\\Assigment1\\A1ChristianMartinez\\A1ChristianMartinez\\obj\\",
+      "outputPath": "C:\\Users\\primo\\Desktop\\To_Upload\\CSharp\\Employees_System\\A1ChristianMartinez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
